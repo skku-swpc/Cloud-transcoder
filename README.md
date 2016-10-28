@@ -1,4 +1,4 @@
-# Cloud-transcoder
+# CloudTranscoding
 Storm Cloud-transcoder
 
 ## Requirments
